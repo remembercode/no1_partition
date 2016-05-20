@@ -1,6 +1,6 @@
 {
   "name": "no1_partition",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "show cumputer logical disks ( partitations ) info, current version only support and test on windows 10 enterprise lts x64, windows server 2012 r2 standard edition, windows server 2012 R2 datacenter edition.",
   "main": "lib/no1_partition.js",
   "scripts": {
