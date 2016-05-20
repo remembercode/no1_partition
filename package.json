@@ -1,0 +1,27 @@
+{
+  "name": "no1_partition",
+  "version": "1.0.0",
+  "description": "show cumputer logical disks ( partitations ) info, current version only support and test on windows 10 enterprise lts x64, windows server 2012 r2 standard edition, windows server 2012 R2 datacenter edition.",
+  "main": "lib/no1_partition.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remembercode/no1_partition.git"
+  },
+  "keywords": [
+    "partition",
+    "info",
+    "free",
+    "space",
+    "ntfs",
+    "filesystem"
+  ],
+  "author": "Wang Bing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/remembercode/no1_partition/issues"
+  },
+  "homepage": "https://github.com/remembercode/no1_partition#readme"
+}
